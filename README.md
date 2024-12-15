@@ -33,8 +33,8 @@ Desarrollé un sistema para gestionar inventarios y pedidos de una pizzería, in
 ### Bethesda: Seguimiento de Feligreses  
 Creé una plataforma para almacenar información y realizar seguimientos a los miembros de una iglesia, optimizando la gestión de datos.
 
-### Blog Personal  
-Diseñé y personalicé un blog en WordPress utilizando Elementor, mostrando contenido dinámico y optimizado para SEO.
+### General Services  
+es una plataforma innovadora que facilita la conexión entre personas que necesitan servicios profesionales y expertos recomendados por su comunidad. Desde encontrar un carpintero confiable para el hogar hasta contactar a un técnico especializado para proyectos empresariales, General Services simplifica la búsqueda de soluciones confiables para satisfacer tus necesidades.
 
 ---
 
