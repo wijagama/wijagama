@@ -1,19 +1,18 @@
 # William Jacob García Magdaniel 🚀
 
-> **Desarrollador de Software** | Especialista en Front-End y Marketing Digital 🌐
+> **Desarrollador de Software** | Apasionado por la Innovación Tecnológica 🌐
 
 ---
 
 ## 🌟 Sobre Mí
 
-Soy un **Ingeniero de Sistemas** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con experiencia en:
+Soy un **Ingeniero de Sistemas** enfocado en el aprendizaje continuo y en la creación de soluciones tecnológicas innovadoras. Poseo experiencia en:
 
 - Desarrollo **front-end** con Angular, HTML, CSS y JavaScript.
-- Creación y diseño de sitios web con **WordPress** y **Elementor**.
-- Marketing digital y gestión de campañas.
-- Soporte técnico, redes y administración de sistemas.
+- Diseño y desarrollo de sitios web con **WordPress** y **Elementor**.
+- Marketing digital y gestión de proyectos web.
 
-Me impulsa el aprendizaje continuo y la búsqueda de generar valor en cada proyecto que emprendo.
+Mis proyectos académicos y personales reflejan mi compromiso con la calidad y la búsqueda de aportar valor en cada iniciativa.
 
 ---
 
@@ -26,31 +25,16 @@ Me impulsa el aprendizaje continuo y la búsqueda de generar valor en cada proye
 
 ---
 
-## 📂 Experiencia Laboral
+## 🚀 Proyectos Destacados
 
-### Desarrollo Front-End con Angular @ SituaWeb  
-_Diciembre 2020 – Febrero 2021_
-- Diseñé interfaces interactivas y receptivas.
-- Implementé componentes reutilizables con TypeScript.
-- Colaboré con diseñadores y equipos de back-end.
+### INNOVA: Gestión de Pizzerías en Java  
+Desarrollé un sistema para gestionar inventarios y pedidos de una pizzería, incluyendo funcionalidades como la entrada de productos, tipos de pizzas y cálculo de costos.
 
-### Diseñador Web con WordPress @ SituaWeb  
-_Febrero 2021 – Junio 2021_
-- Creé sitios web funcionales y atractivos usando Elementor.
-- Personalicé plantillas y optimicé el rendimiento de páginas.
-- Integré plugins y herramientas adicionales.
+### Bethesda: Seguimiento de Feligreses  
+Creé una plataforma para almacenar información y realizar seguimientos a los miembros de una iglesia, optimizando la gestión de datos.
 
-### Pasante de Sistemas @ Centro de Convenciones  
-_Febrero 2022 – Agosto 2022_
-- Configuré redes WiFi y sistemas de comunicación.
-- Realicé mantenimientos preventivos y soporte técnico.
-- Gestioné respaldos de bases de datos.
-
-### Practicante de Sistemas @ Caribbean Eco Tours  
-_Octubre 2023 – Marzo 2024_
-- Desarrollé y personalicé sitios web.
-- Diseñé folletos, campañas publicitarias y contenido multimedia.
-- Implementé estrategias de ventas y optimización de procesos.
+### Blog Personal  
+Diseñé y personalicé un blog en WordPress utilizando Elementor, mostrando contenido dinámico y optimizado para SEO.
 
 ---
 
@@ -76,15 +60,6 @@ _Octubre 2023 – Marzo 2024_
 
 - [LinkedIn](http://www.linkedin.com/in/william-jacob-garcia-magdaniel-9a4384198)  
 - Correo: **wgarciam07@gmail.com**  
-- Teléfono: **(300) 629-8313**
-
----
-
-## 🚀 Proyectos Académicos
-
-- **INNOVA:** Gestión de pizzerías en Java con funciones avanzadas.
-- **Bethesda:** Sistema de gestión para seguimiento de feligreses de una iglesia.
-
 ---
 
 > _"La tecnología es el puente hacia un futuro lleno de posibilidades."_
