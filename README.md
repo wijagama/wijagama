@@ -36,7 +36,7 @@ Creé una plataforma para almacenar información y realizar seguimientos a los m
 ### General Services  
 es una plataforma innovadora que facilita la conexión entre personas que necesitan servicios profesionales y expertos recomendados por su comunidad. Desde encontrar un carpintero confiable para el hogar hasta contactar a un técnico especializado para proyectos empresariales, General Services simplifica la búsqueda de soluciones confiables para satisfacer tus necesidades.
 
-##QuizDay
+### QuizDay
 
 Este proyecto es un juego de trivia interactivo desarrollado en Python. El juego permite a los usuarios responder preguntas sobre varios temas como Geografía, Historia, Deportes, Cine y Cultura y Música, compitiendo por obtener el mejor puntaje. Además, el puntaje final de cada jugador se guarda en un archivo CSV para llevar un registro de los resultados.
 
